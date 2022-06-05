@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1654418241 source:c:\c cods\c\2bankk\untitled2.c
+
+1654418719 source:c:\c cods\c\2bankk\main.cpp
+	<iostream>
+	"bankaccount.h"
+	"structure.h"
+	"corpaccount.h"
+
+1654418754 c:\c cods\c\2bankk\bankaccount.h
+	<iostream>
+
+1654418241 c:\c cods\c\2bankk\structure.h
+	<iostream>
+
+1654418241 c:\c cods\c\2bankk\corpaccount.h
+	<iostream>
+
